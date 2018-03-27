@@ -1,0 +1,3 @@
+%{
+  "library": {:git, "git@github.com:adam-pog/Library_of_Babel.git", "da8526ea876ac094113484dd713c5c7922a21586", []},
+}
